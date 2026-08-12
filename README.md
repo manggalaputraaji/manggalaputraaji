@@ -1,19 +1,7 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%2C%20I'm%20%5BYour%20Name%5D&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Student%20%7C%20Builder%20%7C%20Perpetually%20debugging&descAlignY=55&descSize=18" />
-
-<a href="https://linkedin.com/in/your-linkedin">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:your.email@example.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://your-portfolio-site.com">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%2C%20I'm%20Bara%20Manggala%20Aji%20Putra&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Student%20%7C%20Builder%20%7C%20Perpetually%20debugging&descAlignY=55&descSize=18" />
 <br/><br/>
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Currently+learning+%5Btech+stack%5D;Building+%5Bcurrent+project%5D;Turning+coffee+into+code+since+%5Byear%5D" />
 
 </div>
@@ -23,13 +11,13 @@
 ## 🧭 About Me
 
 ```yaml
-name: "[Your Name]"
-role: "[Your Degree/Major] student @ [Your University]"
-year: "[e.g. 3rd year, Class of 2027]"
-currently_learning: ["[technology]", "[language]", "[framework]"]
-currently_building: "[project name] — [one-line hook]"
-looking_to_collaborate_on: "[type of project, e.g. open-source dev tools]"
-fun_fact: "[something fun about you]"
+name: "manggalaputraaji"
+role: "11th Grader student @ SMKN 5 Surakarta"
+year: "Second year of High School"
+currently_learning: ["Basic of PHP Code", "php", "[framework]"]
+currently_building: "none"
+looking_to_collaborate_on: "Building in html,css"
+fun_fact: "Im the Feeling type"
 ```
 
 <br/>
@@ -53,11 +41,11 @@ fun_fact: "[something fun about you]"
 
 <div align="center">
 
-<a href="https://github.com/yourusername/project-1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project-1&theme=default" />
+<a href="https://github.com/manggalaputraaji/lexacore">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=manggalaputraaji&repo=lexacore&theme=default" />
 </a>
-<a href="https://github.com/yourusername/project-2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project-2&theme=default" />
+<a href="https://github.com/manggalaputraaji/siptatas">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=manggalaputraaji&repo=siptatas&theme=default" />
 </a>
 
 </div>
@@ -70,12 +58,12 @@ fun_fact: "[something fun about you]"
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=manggalaputraaji&show_icons=true&theme=radical&hide_border=true&count_private=true" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=manggalaputraaji&theme=radical&hide_border=true" height="165"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manggalaputraaji&layout=compact&theme=radical&hide_border=true" height="165"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=react-dark&hide_border=true" width="90%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=manggalaputraaji&theme=react-dark&hide_border=true" width="90%"/>
 
 </div>
 
@@ -91,7 +79,7 @@ Once set up, embed it here:
 ## 🏆 Trophy Case
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=manggalaputraaji&theme=radical&no-frame=true&row=1&column=6" />
 </div>
 
 <br/>
