@@ -1,8 +1,10 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%2C%20I'm%20Bara%20Manggala%20Aji%20Putra&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Student%20%7C%20Builder%20%7C%20Perpetually%20debugging&descAlignY=55&descSize=18" />
+
 <br/><br/>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Currently+learning+%5Btech+stack%5D;Building+%5Bcurrent+project%5D;Turning+coffee+into+code+since+%5Byear%5D" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Learning+PHP+%26+web+dev;Building+with+HTML+%2F+CSS;Turning+coffee+into+code" />
 
 </div>
 
@@ -11,13 +13,13 @@
 ## 🧭 About Me
 
 ```yaml
-name: "manggalaputraaji"
-role: "11th Grader student @ SMKN 5 Surakarta"
+name: "Bara Manggala Aji Putra"
+role: "11th Grader @ SMKN 5 Surakarta"
 year: "Second year of High School"
-currently_learning: ["Basic of PHP Code", "php", "[framework]"]
-currently_building: "none"
-looking_to_collaborate_on: "Building in html,css"
-fun_fact: "Im the Feeling type"
+currently_learning: ["PHP basics", "HTML", "CSS"]
+currently_building: "[project name] — [one-line hook]"
+looking_to_collaborate_on: "Web building, UI/UX ideas"
+fun_fact: "I'm the feeling type"
 ```
 
 <br/>
@@ -50,7 +52,7 @@ fun_fact: "Im the Feeling type"
 
 </div>
 
-> 💡 These are auto-generated repo cards — they'll pull live stars/forks/description straight from GitHub. Just swap `project-1` / `project-2` for your actual repo names.
+> 💡 These are auto-generated repo cards — they'll pull live stars/forks/description straight from GitHub, no manual updates needed.
 
 <br/>
 
@@ -59,7 +61,7 @@ fun_fact: "Im the Feeling type"
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=manggalaputraaji&show_icons=true&theme=radical&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=manggalaputraaji&theme=radical&hide_border=true" height="165"/>
+<img src="https://streak-stats.demolab.com/?user=manggalaputraaji&theme=radical&hide_border=true" height="165"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manggalaputraaji&layout=compact&theme=radical&hide_border=true" height="165"/>
 
@@ -71,7 +73,7 @@ fun_fact: "Im the Feeling type"
 🐍 Contribution snake — needs a one-time GitHub Action setup, see:
 https://github.com/Platane/snk
 Once set up, embed it here:
-<img src="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/manggalaputraaji/manggalaputraaji/output/github-contribution-grid-snake.svg" width="100%"/>
 -->
 
 <br/>
@@ -88,7 +90,7 @@ Once set up, embed it here:
 
 <div align="center">
 
-Always down to talk **[your interests — e.g. web dev, AI, hackathons]**, swap project ideas, or team up on something.
+Always down to talk **web building, UI/UX ideas**, swap project ideas, or team up on something.
 Drop a message — I reply faster than my code compiles.
 
 <br/>
