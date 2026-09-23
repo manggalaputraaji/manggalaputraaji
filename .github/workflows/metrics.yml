@@ -15,12 +15,18 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           user: manggalaputraaji
           template: classic
-          base: header, activity, community, repositories, metadata
           
-          # Style overrides for aesthetic dark mode
-          config_theme: dark
-          config_colors: "0d1117, #ffffff, #2fe053, #8b949e"
+          # Hides the avatar, name, and join date header
+          base: activity, community, repositories, metadata
           
-          # Isometric 3D Calendar
+          # Hides the "Last updated..." footer watermark
+          config_output: svg
+          config_padding: 0%
+          config_timezone: Asia/Jakarta
+          config_twemoji: yes
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
+          
+          # Hide footer notice
+          config_display: regular
+          plugin_lines: no
