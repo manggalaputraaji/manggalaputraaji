@@ -1,107 +1,47 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%2C%20I'm%20Bara%20Manggala%20Aji%20Putra&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Student%20%7C%20Builder%20%7C%20Currently%20learns%20php&descAlignY=55&descSize=18" />
+# Hi, I'm Bara Manggala Aji Putra 👋
 
-<br/>
+**Frontend Developer • UI/UX Design Enthusiast**
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=11th+Grader+%40+SMKN+5+Surakarta;Learning+PHP+%2B+Web+Dev+one+bug+at+a+time;Turning+coffee+into+code+%E2%98%95;Always+down+to+build+something+new" />
+11th Grade Student at SMK Negeri 5 Surakarta 🇮🇩
 
-</div>
+---
 
-<br/>
+### 🛠 Tech Stack
 
-## 👋 About Me
+[![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white)](https://figma.com)
+[![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Kotlin](https://img.shields.io/badge/Kotlin-000000?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
 
-I'm Bara — a second-year student at **SMKN 5 Surakarta**, spending most of my free time figuring out how the web actually works by just... building things. No formal roadmap, mostly trial, error, and a lot of `echo`. I'm the type who'd rather ship a rough working version than plan forever.
+---
 
-```
-🎓  Currently:     11th Grade, SMKN 5 Surakarta
-🧠  Learning:      PHP basics · HTML · CSS
-🔭  Building:      Web tools that solve small real problems
-🤝  Open to:       Web dev collabs, UI/UX brainstorming
-✨  Fun fact:      I'm the "feeling" type by the MBTI
-```
+### 📊 GitHub Activity & Stats
 
-<br/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=manggalaputraaji&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=888888&icon_color=ffffff" alt="Bara's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manggalaputraaji&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=888888&layout=compact" alt="Top Languages" width="48%" />
+</p>
 
-## 🧗 Learning Path
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manggalaputraaji&theme=dark&hide_border=true&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff" alt="GitHub Streak" width="97%" />
+</p>
 
-<div align="center">
+---
 
-| Status | Skill |
-|:---:|:---|
-| ✅ | HTML & CSS fundamentals |
-| ✅ | Git & GitHub workflow |
-| 🔄 | PHP basics — actively learning |
+### 📌 About Me
 
-</div>
+- 🎨 **Frontend First:** Passionate about crafting user interfaces from Figma prototypes into clean web designs.
+- ⚙️ **Exploring Backend:** Experimenting with Kotlin for backend development.
+- 🌱 **Currently Learning:** Advanced JavaScript patterns & modern responsive layout techniques.
 
-<br/>
+---
 
-## 🚀 Featured Projects
+### 🌐 Let's Connect
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🏫 Lexacore
-**A student dashboard for student violation monitor & login portal**
-
-Built with vanilla HTML/CSS/JS, includes a login flow, student dashboard, and profile pages. My take on a clean, no-framework school portal UI.
-
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-🔗 [Live demo](https://lexacore.biz.id) · [Source](https://github.com/manggalaputraaji/lexacore)
-
-</td>
-<td width="50%" valign="top">
-
-### 📋 Siptatas
-**A data management dashboard for Lexacore project**
-
-A project for managing data from Lexacore project, build with HTML/CSS/JS and some ui code. this project includes data table, admin dashboard, input data and profile pages. 
-
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-
-🔗 [Live demo](https://siptatas.biz.id) · [Source](https://github.com/manggalaputraaji/siptatas)
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-## 🛠️ Tech Toolbox
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-</div>
-
-<br/>
-
-## 📫 Let's Build Something
-
-<div align="center">
-
-Always down to talk **web building** or **UI/UX ideas** — swap project ideas, or team up on something.
-Drop a message. I reply faster than my code compiles.
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manggalaputraaji@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/baramanggalaajee)
 
 </div>
