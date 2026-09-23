@@ -1,8 +1,8 @@
 name: Generate Metrics
 on:
   schedule:
-    - cron: "0 0 * * *" # Runs daily at midnight
-  workflow_dispatch: # Allows manual trigger anytime
+    - cron: "0 0 * * *"
+  workflow_dispatch:
 
 jobs:
   github-metrics:
@@ -17,11 +17,10 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           
+          # Style overrides for aesthetic dark mode
+          config_theme: dark
+          config_colors: "0d1117, #ffffff, #2fe053, #8b949e"
+          
           # Isometric 3D Calendar
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
-          
-          # Most Used Languages breakdown
-          plugin_languages: yes
-          plugin_languages_sections: most-used
-          plugin_languages_details: percentage
