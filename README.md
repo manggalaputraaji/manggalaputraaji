@@ -2,20 +2,17 @@
 
 <img src="./name.gif" alt="Bara Manggala Aji Putra" width="100%" />
 
-<br /><br />
+<img src="https://img.shields.io/badge/-FRONTEND%20DEVELOPER-161b22?style=for-the-badge&logo=html5&logoColor=7fff00" alt="Frontend Developer" />
+<img src="https://img.shields.io/badge/-UI%2FUX%20ENTHUSIAST-161b22?style=for-the-badge&logo=figma&logoColor=7fff00" alt="UI/UX Enthusiast" />
 
-<code>Frontend Developer</code> • <code>UI/UX Enthusiast</code>
+<p>
+  Student at <b>SMK Negeri 5 Surakarta</b> who loves turning ideas into clean, aesthetic interfaces.<br />
+  I build school-focused web apps like <b>LEXACORE</b> and <b>LITERAKSI</b> with HTML, CSS and JavaScript,<br />
+  and I'm always exploring better UI/UX.
+</p>
 
-<p>Student at <b>SMK Negeri 5 Surakarta</b></p>
-
-<br />
-
-<a href="mailto:manggalaputraaji@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-0d1117?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-<a href="https://instagram.com/baramanggalaajee">
-  <img src="https://img.shields.io/badge/INSTAGRAM-0d1117?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-</a>
+<img src="https://img.shields.io/badge/LEARNING-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white&labelColor=161b22" alt="Learning PHP" />
+<img src="https://img.shields.io/badge/LEARNING-KOTLIN-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=161b22" alt="Learning Kotlin" />
 
 <br /><br />
 
