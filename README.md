@@ -41,7 +41,7 @@ Student at **SMK Negeri 5 Surakarta**
         <img src="https://img.shields.io/badge/Status-Released-2ea44f?style=flat-square" />
       </p>
       <p>An apps that Tracks School rule violation with an Aesthetic UI.</p>
-      <p align="center"><a href="https://github.com/manggalaputraaji/lexacore">Repo</a> | <a href="https:s.id/lexacore">Demo</a></p>
+      <p align="center"><a href="https://github.com/manggalaputraaji/lexacore">Repository</a> | <a href="https:s.id/lexacore">Demo</a></p>
     </td>
     <td width="33%" valign="top">
       <h3 align="center">LITERAKSI</h3>
@@ -49,7 +49,7 @@ Student at **SMK Negeri 5 Surakarta**
         <img src="https://img.shields.io/badge/Status-In_Progress-e3b341?style=flat-square" />
       </p>
       <p>An apps that Tracks book lending in School Library with an Aesthetic UI.</p>
-      <p align="center"><a href="#">Repo</a></p>
+      <p align="center"><a href="https://github.com/manggalaputraaji/LITERAKSI">Repository</a></p>
     </td>
     <td width="33%" valign="top">
       <h3 align="center">Project 3</h3>
