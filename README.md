@@ -7,7 +7,7 @@
 
 <p>
   Student at <b>SMK Negeri 5 Surakarta</b> who loves turning ideas into clean, aesthetic interfaces.<br />
-  I build school-focused web apps like <b>LEXACORE</b> and <b>LITERAKSI</b> with HTML, CSS and JavaScript,<br />
+  I build school-focused web apps like <b>LEXACORE</b> and <b>LITERAKSI</b> with HTML, CSS and JavaScript, and PHP!<br />
   and I'm always exploring better UI/UX.
 </p>
 
