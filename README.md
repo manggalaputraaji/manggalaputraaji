@@ -46,14 +46,14 @@
       <a href="https://s.id/lexacore"><img src="https://img.shields.io/badge/Live%20Demo-7fff00?style=for-the-badge&logo=googlechrome&logoColor=0d1117" alt="Live Demo" /></a>
     </td>
     <td align="center" valign="top" width="50%">
-      <h3>LITERAKSI&nbsp;&nbsp;<img src="https://img.shields.io/badge/In%20Progress-dfb317?style=flat-square" alt="In Progress" /></h3>
+      <h3>LITERAKSI&nbsp;&nbsp;<img src="https://img.shields.io/badge/Released-2ea44f?style=flat-square" alt="Released" /></h3>
       <p>
         A school library lending tracker built for speed and looks.<br />
         Manage the book catalog, log who borrowed what,<br />
         catch overdue returns and spot the most popular titles.
       </p>
       <a href="https://github.com/manggalaputraaji/literaksi"><img src="https://img.shields.io/badge/Repository-0d1117?style=for-the-badge&logo=github&logoColor=ffb020" alt="Repository" /></a>
-      <img src="https://img.shields.io/badge/Demo-Coming%20Soon-30363d?style=for-the-badge&logo=googlechrome&logoColor=8b949e" alt="Demo coming soon" />
+      <a href="https://literaksi.biz.id"><img src="https://img.shields.io/badge/Live%20Demo-7fff00?style=for-the-badge&logo=googlechrome&logoColor=0d1117" alt="Live Demo" /></a>
     </td>
   </tr>
 </table>
