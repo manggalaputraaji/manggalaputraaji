@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./name.gif" alt="Bara Manggala Aji Putra" width="100%" />
+<img src="./banner.svg" alt="Bara Manggala Aji Putra" width="100%" />
 
 <img src="https://img.shields.io/badge/-FRONTEND%20DEVELOPER-161b22?style=for-the-badge&logo=html5&logoColor=7fff00" alt="Frontend Developer" />
 <img src="https://img.shields.io/badge/-UI%2FUX%20ENTHUSIAST-161b22?style=for-the-badge&logo=figma&logoColor=7fff00" alt="UI/UX Enthusiast" />
